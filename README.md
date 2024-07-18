@@ -13,7 +13,7 @@
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://darkera007.github.io/ufonautas_51/
+Site published at: https://deangelo777.github.io/ufonautas_51/
 
 Design: [Ufonautas](https://imgur.com/a/bjOrPsX)
 
